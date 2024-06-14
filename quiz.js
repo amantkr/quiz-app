@@ -7,7 +7,7 @@ const quesJSON = [
     },
 
     {
-        correctAnswer:'x' ,
+        correctAnswer:'x',
         options:['x','y','z','Five'],
         question:"What comes before y",
     },
